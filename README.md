@@ -54,16 +54,11 @@ This Power BI project analyzes customer churn behavior and identifies the major 
 
 ✅ Revenue loss due to churn exceeds **$2.86M**.
 
-## 📸 Dashboard Screenshots
+## 📷 Dashboard Screenshots
 
-### 🏠 Executive Overview
-![Executive Overview](page1.png)
-
-### 👥 Customer Segmentation Analysis
-![Customer Segmentation Analysis](page2.png)
-
-### 🎯 Customer Retention Insights
-![Customer Retention Insights](page3.png)
+- [Executive Overview](./page1.png)
+- [Customer Segmentation Analysis](./page2.png)
+- [Customer Retention Insights](./page3.png)
 
 ## 📂 Repository Structure
 
